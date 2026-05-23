@@ -355,37 +355,3 @@ void mousePressed() { //225+210=435-----145+40=185
   }
   
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//Santa Rita, por favor, pide para mí a Dios que apruebe este TP. Amén
